@@ -14,7 +14,7 @@
   <div class="container">
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="/">Brand Name</a>
+    <a class="navbar-brand" href="/">Brand Name</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -26,6 +26,23 @@
     </div>
   </div>
 </nav>
+
+<div class="container">
+  <h1 class="text-center">Posts</h1>
+  <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque lacinia tellus a porttitor.</p>
+  <div class="row">
+    <div class="col-sm-6 p-5" style="background-color:lavender">
+    <h1>First Post</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque lacinia tellus a porttitor. Nam fringilla laoreet justo, sit amet molestie dolor mattis et. Integer hendrerit vestibulum risus, at bibendum urna scelerisque ut. Donec neque nisi, finibus ut nunc eget, faucibus consequat erat. Aliquam aliquet, dolor a consectetur lacinia, libero.</p>
+    <button type="button" class="btn btn-primary">Learn more</button>
+</div>
+<div class="col-sm-6 p-5" style="background-color:lavender">
+    <h1>Secod Post</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque lacinia tellus a porttitor. Nam fringilla laoreet justo, sit amet molestie dolor mattis et. Integer hendrerit vestibulum risus, at bibendum urna scelerisque ut. Donec neque nisi, finibus ut nunc eget, faucibus consequat erat. Aliquam aliquet, dolor a consectetur lacinia, libero.</p>
+    <button type="button" class="btn btn-primary">Learn more</button>
+</div>
+  </div>
+</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

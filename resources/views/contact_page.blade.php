@@ -8,13 +8,15 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-    <title>Home Page</title>
+    <title>Contact Page</title>
   </head>
   <body>
   <div class="container">
 
+
+    
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="/">Brand Name</a>
+    <a class="navbar-brand" href="/">Brand Name</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -26,6 +28,26 @@
     </div>
   </div>
 </nav>
+
+<div class="container">
+  <h2 class="text-center pt-5">Contact us</h2>
+  <p  class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged:</p>
+  <form action="/action_page.php">
+    <div class="form-group">
+      <label for="nm">Name:</label>
+      <input type="text" class="form-control" id="usr" name="name">
+    </div>
+    <div class="form-group">
+      <label for="em">Email:</label>
+      <input type="email" class="form-control" id="em" name="email">
+    </div>
+    <div class="form-group">
+  <label for="comment">Leave your message here:</label>
+  <textarea class="form-control" rows="5" id="comment"></textarea>
+</div>
+    <button type="submit" class="btn btn-primary mb-5">Submit</button>
+  </form>
+</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
