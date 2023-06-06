@@ -52,7 +52,7 @@
 </div>
 <div class="col-sm-6 p-5" style="background-color:lavender">
     <h1>Fourth Post</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque lacinia tellus a porttitor. Nam fringilla laoreet justo, sit amet molestie dolor mattis et. Integer hendrerit vestibulum risus, at bibendum urna scelerisque ut. Donec neque nisi, finibus ut nunc eget, faucibus consequat erat. Aliquam aliquet, dolor a consectetur lacinia, libero.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etian pellentesque lacinia tellus a porttitor. Nam fringilla laoreet justo, sit amet molestie dolor mattis et. Integer hendrerit vestibulum risus, at bibendum urna scelerisque ut. Donec neque nisi, finibus ut nunc eget, faucibus consequat erat. Aliquam aliquet, dolor a consectetur lacinia, libero.</p>
     <button type="button" class="btn btn-primary">Learn more</button>
 </div>
 </div>
